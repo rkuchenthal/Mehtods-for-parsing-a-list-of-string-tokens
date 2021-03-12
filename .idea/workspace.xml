@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da8fb342-cd18-4c45-b510-32ae080fe2b5" name="Default Changelist" comment="FINAL:&#10; * Static utility methods for parsing a list of String tokens representing a&#10; * simple mathematical prefix expression and for evaluating the resulting value.&#10; * The tokens must adhere to the grammar E -&gt; +EE|*EE|0|...|9. The result&#10; * of parsing is a parse tree. The resulting parse tree can be passed to an&#10; * evaluation method which returns an int. *&#10; *&#10; * For example calling parsePrefixExpr on the List [&quot;*&quot;,&quot;+&quot;,&quot;2&quot;,&quot;3&quot;,&quot;4&quot;]&#10; * results in a parse tree, and calling eval on that parse tree results in 20" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pfk5jSjHCRD580H9CnXrLQLPAG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da8fb342-cd18-4c45-b510-32ae080fe2b5" name="Default Changelist" comment="" />
+      <created>1615581350174</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615581350174</updated>
+    </task>
+    <task id="LOCAL-00001" summary="FINAL:&#10; * Static utility methods for parsing a list of String tokens representing a&#10; * simple mathematical prefix expression and for evaluating the resulting value.&#10; * The tokens must adhere to the grammar E -&gt; +EE|*EE|0|...|9. The result&#10; * of parsing is a parse tree. The resulting parse tree can be passed to an&#10; * evaluation method which returns an int. *&#10; *&#10; * For example calling parsePrefixExpr on the List [&quot;*&quot;,&quot;+&quot;,&quot;2&quot;,&quot;3&quot;,&quot;4&quot;]&#10; * results in a parse tree, and calling eval on that parse tree results in 20">
+      <created>1615581891352</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615581891352</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="FINAL:&#10; * Static utility methods for parsing a list of String tokens representing a&#10; * simple mathematical prefix expression and for evaluating the resulting value.&#10; * The tokens must adhere to the grammar E -&gt; +EE|*EE|0|...|9. The result&#10; * of parsing is a parse tree. The resulting parse tree can be passed to an&#10; * evaluation method which returns an int. *&#10; *&#10; * For example calling parsePrefixExpr on the List [&quot;*&quot;,&quot;+&quot;,&quot;2&quot;,&quot;3&quot;,&quot;4&quot;]&#10; * results in a parse tree, and calling eval on that parse tree results in 20" />
+    <option name="LAST_COMMIT_MESSAGE" value="FINAL:&#10; * Static utility methods for parsing a list of String tokens representing a&#10; * simple mathematical prefix expression and for evaluating the resulting value.&#10; * The tokens must adhere to the grammar E -&gt; +EE|*EE|0|...|9. The result&#10; * of parsing is a parse tree. The resulting parse tree can be passed to an&#10; * evaluation method which returns an int. *&#10; *&#10; * For example calling parsePrefixExpr on the List [&quot;*&quot;,&quot;+&quot;,&quot;2&quot;,&quot;3&quot;,&quot;4&quot;]&#10; * results in a parse tree, and calling eval on that parse tree results in 20" />
+  </component>
+</project>
